@@ -40,9 +40,9 @@ Group Members
 
 
 GitHub Username
-    iwalewaaisha20-blip
-	zainulabideenkyc
-  	Fatimailyasabdullah-hub
+•iwalewaaisha20-blip
+•zainulabideenkyc
+• Fatimailyasabdullah-hub
 
 Slack Usernames
 
@@ -51,7 +51,11 @@ Slack Usernames
 . @Fatima ilyasu 
 
 Areas of Interest in Bioinformatics
-Name	Area of Interest
-Aishat Iwalewa	Genomics
-Zainu Alhaji ya’u 	Proteomics
-Fatima Ilyasu Abdullahi 	Structural Bioinformatics
+•Aishat Iwalewa-Genomics
+•Zainu Alhaji ya’u -Proteomics
+•Fatima Ilyasu Abdullahi - Structural Bioinformatics
+
+Programming language used
+•Aishat.r
+•zainu.py
+•Fatima.js
