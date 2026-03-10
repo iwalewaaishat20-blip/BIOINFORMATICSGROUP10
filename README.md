@@ -38,19 +38,17 @@ Group Members
 	4.	No response
 	5.	No response 
 
-GitHub Usernames
 
-Name	GitHub Username
-Aishat Iwalewa	iwalewaaisha20-blip
-Zainu Alhaji ya’u	zainulabideenkyc
-Fatima Ilyasu Abdullahi 	Fatimailyasabdullah-hub
+GitHub Username
+    iwalewaaisha20-blip
+	zainulabideenkyc
+  	Fatimailyasabdullah-hub
 
 Slack Usernames
 
-Name	Slack Username
-Aishat Iwalewa	@AishatIwalewa
-Zainu Alhaji ya’u	@username
-Fatima Ilyasu Abdullahi 	@Fatima ilyasu 
+. @AishatIwalewa
+. @username
+. @Fatima ilyasu 
 
 Areas of Interest in Bioinformatics
 Name	Area of Interest
