@@ -47,7 +47,7 @@ GitHub Username
 Slack Usernames
 
 . @AishatIwalewa
-. @username
+. @zainulabideen
 . @Fatima ilyasu 
 
 Areas of Interest in Bioinformatics
