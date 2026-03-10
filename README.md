@@ -35,8 +35,8 @@ Group Members
 	1.	Aishat Iwalewa
 	2.	Zainu Alhaji ya’u
 	3.	Fatima Ilyasu Abdulla
-	4.	Member 4
-	5.	Member 5
+	4.	No response
+	5.	No response 
 
 GitHub Usernames
 
