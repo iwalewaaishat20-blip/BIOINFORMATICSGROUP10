@@ -52,7 +52,19 @@ Slack Usernames
 
 Areas of Interest in Bioinformatics
 •Aishat Iwalewa-Genomics
-•Zainu Alhaji ya’u -Proteomics
+
+(2)•Zainu Alhaji ya’u -Proteomics
+github_username = "zainulabideenkyc"
+slack_username = "zainulabideen"
+area_of_interest = "proteomics"
+github_username = "zainulabideenkyc"
+slack_username = "zainulabideen"
+area_of_interest = "Genome Analysis"
+
+print("GitHub Username:", github_username)
+print("Slack Username:", slack_username)
+print("Area of Interest:", area_of_interest)
+
 •Fatima Ilyasu Abdullahi - Structural Bioinformatics
 
 Programming language used
