@@ -52,12 +52,10 @@ Slack Usernames
 
 Areas of Interest in Bioinformatics
 •Aishat Iwalewa-Genomics
-
-(2)•Zainu Alhaji ya’u -Proteomics
-
+•Zainu Alhaji ya’u -genumne analysis 
 •Fatima Ilyasu Abdullahi - Structural Bioinformatics
 
 Programming language used
 •Aishat.r
-•zainu.py
+•zainilabideen.py
 •Fatima.js
