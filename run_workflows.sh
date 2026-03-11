@@ -5,7 +5,7 @@
 echo "Name,Email,Slack Username,Area of Interest
 Aishat Iwalewa,iwalewaaishat20@gmail.com,@aishat,Genomics
 Zainu Alhaji ya'u,zainulabideen80800@gmail.com,@zainulabideen,Proteomics
-Fatima Ilyasu Abdullahi,fatimailyasabdullahi@gmail.com,@fatima ilyasu abdullahi,Transcriptomics" > combined_output.csv
+Fatima Ilyasu Abdullahi,fatimailyasabdullahi@gmail.com,@fatima ilyasu abdullahi,structural bioinformatics" > combined_output.csv
 
 # Run Python scripts
 for script in Scripts/*.py
