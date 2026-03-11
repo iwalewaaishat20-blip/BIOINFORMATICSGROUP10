@@ -35,7 +35,7 @@ Group Members
 	1.	Aishat Iwalewa
 	2.	Zainu Alhaji ya’u
 	3.	Fatima Ilyasu Abdulla
-	4.	No response
+	4.	Abubakar Isah Haruna
 	5.	No response 
 
 
@@ -43,25 +43,30 @@ GitHub Username
 •iwalewaaisha20-blip
 •zainulabideenkyc
 •Fatimailyasabdullah-hub
+•abubakarisahharuna9@gmail.com
 
 Slack Usernames
 
 . @Aishat
 . @zainulabideen
 . @Fatima ilyasu 
+. @abubakarisahhanah9
 
 Areas of Interest in Bioinformatics
 •Aishat Iwalewa-Genomics
 •Zainu Alhaji ya’u -genumne analysis 
 •Fatima Ilyasu Abdullahi - Structural Bioinformatics
+•Abubakar Isah Haruna -
 
 Programming language used
 •Aishat.r
 •zainilabideen.py
 •Fatima.js
+•
 
 
 Matric numbers 
 Basug/ug/bms/ana/22/5872
 Basug/ug/bms/ana/22/6275
 Basug/ug/bms/ana/22/7274
+Basug/ug/bms/ana/22/4590
