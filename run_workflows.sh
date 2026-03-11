@@ -1,4 +1,31 @@
 #!/bin/bash
+#!/bin/bash
+
+# Create CSV file with header
+echo "Name,Email,Slack Username,Area of Interest
+Aishat Iwalewa,iwalewaaishat20@gmail.com,@aishat,Genomics
+Zainu Alhaji ya'u,zainulabideen80800@gmail.com,@zainulabideen,Proteomics
+Fatima Ilyasu Abdullahi,fatimailyasabdullahi@gmail.com,@fatima ilyasu abdullahi,Transcriptomics" > combined_output.csv
+
+# Run Python scripts
+for script in Scripts/*.py
+do
+python3 "$script" >> combined_output.csv
+done
+
+# Run JavaScript scripts
+for script in Scripts/*.js
+do
+node "$script" >> combined_output.csv
+done
+
+# Run R scripts
+for script in Scripts/*.R
+do
+Rscript "$script" >> combined_output.csv
+done
+
+echo "CSV file generated successfully"
 
 # Create CSV header
 echo "Name,Email,Slack Username,Area of Interest" > artifacts/output.csv
