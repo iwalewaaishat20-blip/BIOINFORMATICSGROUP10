@@ -42,11 +42,11 @@ Group Members
 GitHub Username
 •iwalewaaisha20-blip
 •zainulabideenkyc
-• Fatimailyasabdullah-hub
+•Fatimailyasabdullah-hub
 
 Slack Usernames
 
-. @AishatIwalewa
+. @Aishat
 . @zainulabideen
 . @Fatima ilyasu 
 
