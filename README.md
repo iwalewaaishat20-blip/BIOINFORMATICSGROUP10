@@ -43,7 +43,7 @@ GitHub Username
 •iwalewaaisha20-blip
 •zainulabideenkyc
 •Fatimailyasabdullah-hub
-•abubakarisahharuna9@gmail.com
+•abubakarisahharuna
 
 Slack Usernames
 
@@ -56,7 +56,7 @@ Areas of Interest in Bioinformatics
 •Aishat Iwalewa-Genomics
 •Zainu Alhaji ya’u -genumne analysis 
 •Fatima Ilyasu Abdullahi - Structural Bioinformatics
-•Abubakar Isah Haruna -
+•Abubakar Isah Haruna -Drug Discovery 
 
 Programming language used
 •Aishat.r
@@ -70,3 +70,4 @@ Basug/ug/bms/ana/22/5872
 Basug/ug/bms/ana/22/6275
 Basug/ug/bms/ana/22/7274
 Basug/ug/bms/ana/22/4590
+
