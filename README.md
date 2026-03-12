@@ -36,7 +36,6 @@ Group Members
 	2.	Zainu Alhaji ya’u
 	3.	Fatima Ilyasu Abdulla
 	4.	Abubakar Isah Haruna
-	5.	No response 
 
 
 GitHub Username
@@ -62,10 +61,11 @@ Programming language used
 •Aishat.r
 •zainilabideen.py
 •Fatima.js
-•
+•Abubakar.rb
 
 
 Matric numbers 
+
 Basug/ug/bms/ana/22/5872
 Basug/ug/bms/ana/22/6275
 Basug/ug/bms/ana/22/7274
