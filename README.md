@@ -1,4 +1,4 @@
-Project Title
+#Project Title
 
 ANA4315 – Introduction to Bioinformatics Practical Assignment (CA1)
 
