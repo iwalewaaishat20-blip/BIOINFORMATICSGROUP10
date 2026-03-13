@@ -1,5 +1,5 @@
 console.log("Fatima Ilyasu Abdullah");
-console.log("email.com");
-console.log("@Fatimailyasu ");
+console.log("fatimailyasabdullah@gmail.com");
+console.log("@Fatima iliyasu abdullahi");
 console.log("Structural Bioinformatics
 ");
