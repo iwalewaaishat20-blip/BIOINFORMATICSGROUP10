@@ -12,11 +12,11 @@ manage large datasets and ensure reproducible research.
 This project demonstrates the integration of multiple programming languages, 
 version control systems, and automation tools commonly used in bioinformatics 
 workflows.
-
+and development
 ### The assignment focuses on:
 
 - 🔧 Collaborative coding using **Git and GitHub**
-- 💻 Writing scripts in **different programming languages**
+- 💻 Writing scripts in **different GitHub languages**
 - 📝 Documenting projects using **Markdown**
 - ⚙️ Automating workflows using **Bash scripting**
 - 📊 Generating structured datasets in **CSV format** for analysis
@@ -50,7 +50,7 @@ can work together in computational biology research.
 ## 👥 Group Members
 
 | # | Full Name | GitHub Username | Slack Username | Matric Number |
-|---|-----------|----------------|---------------|---------------|
+|---|-----------|----------------|-------language-------------------------------------|
 | 1 | Aishat Iwalewa | [@iwalewaaisha20-blip](https://github.com/iwalewaaisha20-blip) | @Aishat | BASUG/UG/BMS/ANA/22/5872 |
 | 2 | Zainu Alhaji Ya'u | [@zainulabideenkyc](https://github.com/zainulabideenkyc) | @zainulabideen | BASUG/UG/BMS/ANA/22/6275 |
 | 3 | Fatima Ilyasu Abdullahi | [@Fatimailyasabdullah-hub](https://github.com/Fatimailyasabdullah-hub) | @fatimailyasuabdullahi | BASUG/UG/BMS/ANA/22/7274 |
