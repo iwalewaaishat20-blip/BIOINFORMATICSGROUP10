@@ -48,12 +48,12 @@ Slack Usernames
 
 . @Aishat
 . @zainulabideen
-. @Fatima ilyasu 
+. @Fatima ilyasu abdullahi 
 . @abubakarisahhanah9
 
 Areas of Interest in Bioinformatics
-•Aishat Iwalewa-Genomics
-•Zainu Alhaji ya’u -genumne analysis 
+•Aishat Iwalewa Busayo-Genomics
+• Zainu Alhaji ya’u -genumne analysis 
 •Fatima Ilyasu Abdullahi - Structural Bioinformatics
 •Abubakar Isah Haruna -Drug Discovery 
 
