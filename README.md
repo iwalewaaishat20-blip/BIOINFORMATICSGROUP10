@@ -34,7 +34,7 @@ This approach demonstrates how different tools and programming environments can 
 Group Members
 	1.	Aishat Iwalewa
 	2.	Zainu Alhaji ya’u
-	3.	Fatima Ilyasu Abdulla
+	3.	Fatima Iliyasu abdullahi
 	4.	Abubakar Isah Haruna
 
 
